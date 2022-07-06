@@ -1,0 +1,1 @@
+[data-v-384b4555]:root{counter-reset:chapter}.box[data-v-384b4555]{display:flex;flex-direction:column}.box span[data-v-384b4555]{counter-increment:chapter}.box span[data-v-384b4555]:before{content:" " counter(chapter) "." counter(section) " "}
